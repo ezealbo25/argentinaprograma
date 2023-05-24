@@ -1,7 +1,5 @@
-let a = 5;
-let b = 2;
-let suma = a + b;
+var a = parseInt(prompt("ingrese"));
+var b = parseInt(prompt("ingrese"));
+var resultado = a - b
 
-dasddsa
 console.log(suma);
-asd
